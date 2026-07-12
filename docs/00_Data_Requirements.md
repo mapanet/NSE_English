@@ -1,11 +1,3 @@
-# NSE Calculation for Neighborhoods (Boundaries Layer 6)
-
-This document describes the complete technical pipeline used to calculate the AMAI Socioeconomic Level (NSE) at the Neighborhood (Colonia) level, known as **Boundaries Layer 6**.  
-Layer 6 is the **final enriched dataset**, where each neighborhood polygon contains its corresponding NSE category and weighted demographic values.
-
-Although Boundaries Layers **1 (State)**, **2 (Municipality)**, and **5 (City)** also receive NSE values through aggregation, this pipeline focuses specifically on **Layer 6**, where NSE is calculated using spatial intersections between neighborhood polygons and AGEB‑level socioeconomic and census data.
-
-
 
 ## Boundaries Layers Overview
 
