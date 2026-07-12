@@ -36,7 +36,7 @@ Explore the interactive NSE map of cities or neighborhoods in México:
 
 ## 📊 Official datasets used
 
-### AMAI 2024 — NSE by AGEB  
+### AMAI 2025 — NSE by AGEB  
 Socioeconomic classification (A/B, C+, C, C-, D+, D) assigned to statistical units.
 
 ### INEGI Marco Geoestadístico 2025  
