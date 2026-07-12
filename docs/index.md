@@ -45,7 +45,7 @@ https://axsi.io/es
 ## 🧩 About this project
 
 Repository:  
-https://github.com/mapanet/NSE/
+https://github.com/mapanet/NSE_English/
 
 Author: **Juan Carlos Alcaide Blanco**  
 Organization: **AXSI / Divex Turismo, S.L.**  
