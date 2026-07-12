@@ -21,7 +21,7 @@ The workflow integrates official datasets from AMAI, INEGI, and INE, producing s
 
 To generate a final Layer 6 (NSE by colonia) dataset using:
 
-- AMAI 2024 NSE values (by AGEB)
+- AMAI 2025 NSE values (by AGEB)
 - INEGI MG 2025 AGEB geometries
 - INEGI DCAH 2025 neighborhood geometries
 - Spatial interpolation from AGEB → colonia boundaries
