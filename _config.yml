@@ -1,0 +1,29 @@
+title: "NSE — AMAI Socioeconomic Level for INEGI Neighborhoods"
+description: "Technical documentation for the NSE pipeline integrating AMAI 2024, INEGI MG 2025, and INEGI DCAH 2025."
+theme: jekyll-theme-cayman
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - docs
+
+navbar-links:
+  Home: index.md
+  Methodology: methodology.md
+  Pipeline: pipeline.md
+  INEGI: inegi.md
+  AMAI: amai.md
+
+exclude:
+  - data
+  - scripts
+  - images
+  - README.md
