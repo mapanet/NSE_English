@@ -1,6 +1,6 @@
-# NSE English Documentation
+# AMAI NSE English Documentation
 
-## AMAI Socioeconomic Level for INEGI Neighborhoods
+## Socioeconomic Level for INEGI Neighborhoods
 
 This site contains the complete technical documentation for the **NSE (Nivel Socioeconómico AMAI)** pipeline developed by mapanet / AXSI.  
 It explains the datasets, methodology, spatial processing, SQL workflow, and validation steps required to generate **Layer 6 — NSE by colonia** for all of Mexico.
