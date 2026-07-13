@@ -476,7 +476,8 @@ ORDER BY NSE_LABEL, CVEGEO;
 
 #### Validation
 
-Display TIP 10 records from Boundarues layer = 5 (locality) with NSE_LABEL
+Display TOP 10 records from Boundaries layer = 5 (locality) with NSE_LABEL
+
 |CVEGEO   |NSE_LABEL |
 |---------|----------|
 |100010001|	D/E (31%)|
