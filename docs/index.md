@@ -1,4 +1,4 @@
-# AMAI English Documentation
+# AMAI Documentation
 
 ## NSE (Socioeconomic Level) for INEGI Neighborhoods
 
